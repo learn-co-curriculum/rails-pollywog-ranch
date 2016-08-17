@@ -27,7 +27,7 @@ aiming for.
     * You'll add an action, `#metamorphosize`, to this controller
   2. config/routes.rb
     * Here you'll allow a form to post to /tadpoles/:id/metamorphosize
-    * This should route the request to the Tadpoles Controller's metamorphoize action
+    * This should route the request to the Tadpoles Controller's metamorphosize action
   3. views/tadpoles/show.html.erb
     * You'll add a form that will post to `/tadpoles/:id/metamorphosize` with a submit button that reads "Become a frog"
 
@@ -55,3 +55,5 @@ aiming for.
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-pollywog-ranch' title=''></a> on Learn.co and start learning to code for free.</p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-pollywog-ranch'>Rails Pollywog Ranch Lab</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/rails-pollywog-ranch'>Rails Pollywog Ranch Lab</a> on Learn.co and start learning to code for free.</p>
